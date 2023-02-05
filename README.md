@@ -17,10 +17,6 @@
 
 **이메일 |** ekd7822@naver.com
 
-**연락처 |** 010-8567-7822
-
-**주소 |** 대전광역시 유성구 대학로81번길 68(궁동, 모티브) 모티브 205호
-
 ## **웹페이지**
 
 ---
@@ -31,26 +27,19 @@
 
 ### Notion
 
-[https://www.notion.so/5961639cf252475f8945ad9dde5df4d1](https://www.notion.so/5961639cf252475f8945ad9dde5df4d1)
+[https://www.notion.so/6f69913f022340bea082641ae9048639](https://www.notion.so/6f69913f022340bea082641ae9048639)
 
-## 학력 정보
+## 프로젝트
 
 ---
 
-### 대학교
+[동네북](https://www.notion.so/7be605c474844ecfb0809278c17baa7c)
 
-| 한남대학교 본교(대전광역시) | 학사 | 주간 |
-| --- |
-| 재학기간 | 2016.03 ~ 2022.02 (졸업)
-주전공 | 정보통신공학과
-평점 | 3.53 / 4.5
-소재지 | 대전 |
+[EoditZip(어딨집)](https://www.notion.so/EoditZip-7488b5f0551d4c519f8a04c4b1fffb6e)
 
-### 고등학교
+[CPD Project](https://www.notion.so/CPD-Project-9edc7b4bb1a8466bbd18b975e587836a)
 
-| 대창고등학교(경상북도) |
-| --- |
-| 재학기간 | 2013.03 ~ 2016.02 (졸업) |
+---
 
 ## **자격/수상경력**
 
@@ -73,12 +62,6 @@
 | 개발 | AWS | 초급 |
 | 개발 | Docker | 초급 |
 | 개발 | Jenkins | 초급 |
-
-## **병역대상**
-
----
-
-**군필** 2017.04 ~ 2019.01
 
 <!--
 **Yeop-seung/Yeop-seung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
