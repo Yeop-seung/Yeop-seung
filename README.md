@@ -26,39 +26,23 @@
  
 </div>
 
-## 정보
-
----
-
-**곽승엽** **(SeungYeop Gwak) |** 1997.03.21 | 남성
-
-**이메일 |** ekd7822@naver.com
-
-## **웹페이지**
-
----
-
-### GitHub
-
-[Yeop-seung - Overview](https://github.com/Yeop-seung)
-
-### Notion
-
-[https://www.notion.so/6f69913f022340bea082641ae9048639](https://www.notion.so/6f69913f022340bea082641ae9048639)
 
 ## 프로젝트
 
 ---
+(수정중)[Another](https://www.notion.so/ANOTHER-7c74c524e7a740f492979aef48f1d18e?pvs=4)
 
-[동네북](https://www.notion.so/7be605c474844ecfb0809278c17baa7c)
+(수정중)[NewNews](https://www.notion.so/NEWNEWS-d19fb2b39ac8445d9d2e2bf9146d7987?pvs=4)
 
-[EoditZip(어딨집)](https://www.notion.so/EoditZip-7488b5f0551d4c519f8a04c4b1fffb6e)
+(수정중)[동네북](https://www.notion.so/6d9036344cc245cf889978bfadb649ea?pvs=4)
 
-[CPD Project](https://www.notion.so/CPD-Project-9edc7b4bb1a8466bbd18b975e587836a)
+(수정중)[EoditZip(어딨집)](https://www.notion.so/Eoditzip-50d40cd6bb11453b8532ecc63f8d6078?pvs=4)
+
+[CPD Project](https://www.notion.so/CPD-Project-82a854e0f7f345ea984ba29e3433bd0a?pvs=4)
 
 ---
 
-## **자격/수상경력**
+## 🏆 Awards / Certificates
 
 ---
 
@@ -66,20 +50,30 @@
 | --- | --- | --- | --- |
 | 수상내역/공모전 | 창업 아이디어 인증서 | 교육부 | 2020.08 |
 
-## **보유기술**
+## 👨‍💻 **SKILLS**
 
 ---
 
-| 기술분야 | 기술명 | 기술수준 |
-| --- | --- | --- |
-| 개발 | JAVA | 중급 |
-| 개발 | Spring boot | 중급 |
-| 개발 | MySql | 중급 |
-| 개발 | Vue.js | 중급 |
-| 개발 | AWS | 초급 |
-| 개발 | Docker | 초급 |
-| 개발 | Jenkins | 초급 |
-| 개발 | Linux | 초급 |
+**Java 중급** 🟥🟥🟥🟥⬜
+
+- 객체지향을 이해하고, Java Spring Boot를 활용하여 소규모 프로젝트 진행 가능
+
+**Kafka 중급** 🟥🟥🟥⬜⬜
+
+- 실시간 스트리밍 서비스를 이해하고 프로듀서와 컨슈머를 활용하여 소규모 프로젝트 진행 가능
+
+**Spark 중급** 🟥🟥🟥⬜⬜
+
+- 실시간 스트리밍 서비스와 메모리 기반 처리를 이해하고 스파크 스트리밍을 활용하여 소규모 프로젝트 진행 가능
+
+**HDFS 중급** 🟥🟥🟥⬜⬜
+
+- 파일 시스템을 이해하고 활용하여 소규모 프로젝트 진행 가능
+
+**Python 중급** 🟥🟥⬜⬜⬜
+
+- 객체지향을 이해하고 Spark에서 사용하기 위해 vi환경에서 파이썬 코드를 작성해본 경험 있음
+---
 
 <!--
 **Yeop-seung/Yeop-seung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
