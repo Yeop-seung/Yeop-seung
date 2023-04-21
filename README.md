@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeop-seung)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeopwin)](https://solved.ac/yeopwin/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeop-seung&layout=compact)](https://github.com/Yeop-seung/github-readme-stats)
 
 <div align="center">
   
