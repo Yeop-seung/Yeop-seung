@@ -33,9 +33,9 @@
 ---
 <!-- [Another](https://www.notion.so/ANOTHER-7c74c524e7a740f492979aef48f1d18e?pvs=4) -->
 
-[NewNews](https://www.notion.so/NEWNEWS-d19fb2b39ac8445d9d2e2bf9146d7987?pvs=4) 코드 검토중
+[뉴뉴스(NewNews)](https://www.notion.so/NEWNEWS-d19fb2b39ac8445d9d2e2bf9146d7987?pvs=4)
 
-[동네북](https://www.notion.so/6d9036344cc245cf889978bfadb649ea?pvs=4) 코드 검토중
+[동네북(TownBook)](https://www.notion.so/6d9036344cc245cf889978bfadb649ea?pvs=4)
 
 [EoditZip(어딨집)](https://www.notion.so/Eoditzip-50d40cd6bb11453b8532ecc63f8d6078?pvs=4)
 
