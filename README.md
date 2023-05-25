@@ -30,15 +30,15 @@
 ## 프로젝트
 
 ---
-<!-- [Another](https://www.notion.so/ANOTHER-7c74c524e7a740f492979aef48f1d18e?pvs=4) -->
+[Another(어나더)](https://handsome-jackrabbit-e39.notion.site/ANOTHER-5d33977d7ea4466d9dd5085ed29bd655)
 
-[뉴뉴스(NewNews)](https://www.notion.so/NEWNEWS-d19fb2b39ac8445d9d2e2bf9146d7987?pvs=4)
+[NewNews(뉴뉴스)](https://handsome-jackrabbit-e39.notion.site/NEWNEWS-d19fb2b39ac8445d9d2e2bf9146d7987)
 
-[동네북(TownBook)](https://www.notion.so/6d9036344cc245cf889978bfadb649ea?pvs=4)
+[TownBook(동네북)](https://handsome-jackrabbit-e39.notion.site/_-Town-Book-6d9036344cc245cf889978bfadb649ea)
 
-[EoditZip(어딨집)](https://www.notion.so/Eoditzip-50d40cd6bb11453b8532ecc63f8d6078?pvs=4)
+[EoditZip(어딨집)](https://handsome-jackrabbit-e39.notion.site/Eoditzip-50d40cd6bb11453b8532ecc63f8d6078)
 
-[CPD Project](https://www.notion.so/CPD-Project-82a854e0f7f345ea984ba29e3433bd0a?pvs=4)
+[CPD Project](https://handsome-jackrabbit-e39.notion.site/CPD-Project-82a854e0f7f345ea984ba29e3433bd0a)
 
 ---
 
@@ -75,6 +75,10 @@
 **Python 중급** 🟥🟥⬜⬜⬜
 
 - 객체지향을 이해하고 Spark에서 사용하기 위해 vi환경에서 파이썬 코드를 작성해본 경험 있음
+
+**Scala 중급** 🟥🟥⬜⬜⬜
+
+- 코드 이해가 가능하며 간단한 코드 작성 가능
 ---
 
 <!--
