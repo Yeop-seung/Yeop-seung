@@ -2,11 +2,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeop-seung)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  
 # 📚 Tech Stack 📚
   
 ### ✨ Languages ✨
-  
   <img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=OpenJdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -19,7 +17,7 @@
   
 ### 💻 Big Data 💻
   
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white"> <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white"> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=white">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white"> <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white"> <img src="https://img.shields.io/badge/Hadoop-40AEF0?style=flat&logo=ApacheHadoop&logoColor=white">
   
 ### 🛠 Tools 🛠
   
