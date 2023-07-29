@@ -30,15 +30,15 @@
 ## 프로젝트
 
 ---
-[Another(어나더)](https://handsome-jackrabbit-e39.notion.site/ANOTHER-5d33977d7ea4466d9dd5085ed29bd655)
+[Another(어나더)](https://yeop-seung.notion.site/_-ANOTHER-bcd2848e0130413680bf3e06023c4c2f?pvs=4)
 
-[NewNews(뉴뉴스)](https://handsome-jackrabbit-e39.notion.site/NEWNEWS-d19fb2b39ac8445d9d2e2bf9146d7987)
+[NewNews(뉴뉴스)](https://yeop-seung.notion.site/NEWNEWS-6afb2ae4a7bc41908d494e899f8d89f7?pvs=4)
 
-[TownBook(동네북)](https://handsome-jackrabbit-e39.notion.site/_-Town-Book-6d9036344cc245cf889978bfadb649ea)
+[TownBook(동네북)](https://yeop-seung.notion.site/_-Town-Book-2cef434319be4f7faacc2c09c715c39c?pvs=4)
 
-[EoditZip(어딨집)](https://handsome-jackrabbit-e39.notion.site/Eoditzip-50d40cd6bb11453b8532ecc63f8d6078)
+[EoditZip(어딨집)](https://yeop-seung.notion.site/Eoditzip-eab009194df246a39960eb200380ed55?pvs=4)
 
-[CPD Project](https://handsome-jackrabbit-e39.notion.site/CPD-Project-82a854e0f7f345ea984ba29e3433bd0a)
+[CPD Project](https://yeop-seung.notion.site/CPD-Project-be9d739262564110abc0ac45325fdf41?pvs=4)
 
 ---
 
