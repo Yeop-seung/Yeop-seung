@@ -11,24 +11,30 @@
 # 🍀 Tech Stack 🍀
   
 ### ✨ Languages ✨
-  <img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=OpenJdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=OpenJdk&logoColor=white"/>
+  <!--
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+  -->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=white"/>
   
-### 💻 Big Data 💻
+<!--### 💻 Big Data 💻
   
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white"> <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white"> <img src="https://img.shields.io/badge/Hadoop-40AEF0?style=flat&logo=ApacheHadoop&logoColor=white">
   
 ### 🛠 Tools 🛠
   
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
- 
+-->
 </div>
 
 
