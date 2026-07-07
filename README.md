@@ -1,12 +1,12 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeop-seung&layout=compact)](https://github.com/Yeop-seung/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeop-seung)](https://github.com/anuraghazra/github-readme-stats)-->
-<div align="center">
+<!-- <div align="center">
   <h2>Baekjoon Stats</h2>
   <a href="https://solved.ac/yeopwin/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeopwin" />
   </a>
 </div>
-<div align="center">
+<div align="center"> -->
   
 # 🍀 Tech Stack 🍀
   
